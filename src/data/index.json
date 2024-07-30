@@ -38,40 +38,14 @@
       "src": "./img/Cloud-Home.png",
       "title": "Cloud-Home",
       "description": "A file storage platform that allows users to upload and manage their files, including images, in the cloud using an organized folder structure..",
-      "link": "View In Github"
+      "link": "https://github.com/JBworks-GIT/CloudHome"
     },
     {
       "id": "3",
       "src": "./img/UniChat.png",
       "title": "Uni-Chat",
       "description": "An app that enables seamless chatting and communication among university students, allowing them to share images, PDFs, and other files effortlessly.",
-      "link": "View In Github"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "link": "https://www.figma.com/design/gkl4qCY3Ecxyuy1TeBbeYL/wireframes-final?node-id=0-1&t=dXezKY8pGlG2Lz4h-1"
     }
   ]
 }
