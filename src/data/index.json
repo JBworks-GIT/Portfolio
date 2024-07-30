@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End",
+      "description": "Creating responsive, visually appealing interfaces using HTML, CSS, and JavaScript for seamless user experiences."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Developing scalable server-side applications with Python, Node.js, and Java for efficient data management."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Designing user-friendly interfaces and enhancing experiences through research, wireframing, and user testing."
+    },
+    {
+      "id": "4",
+      "src": "./img/product-chain-1.png",
+      "title": "Java",
+      "description": "Building high-performance applications using Java, focusing on scalability, maintainability, and code quality."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/harvest-hub.png",
+      "title": "Harvest-Hub",
+      "description": "An e-commerce website dedicated to enabling customers to purchase local produce, promoting local farmers, and ensuring a quality guarantee for customers.",
+      "link": "https://github.com/JBworks-GIT/Harvest-Hub"
+    },
+    {
+      "id": "2",
+      "src": "./img/Cloud-Home.png",
+      "title": "Cloud-Home",
+      "description": "A file storage platform that allows users to upload and manage their files, including images, in the cloud using an organized folder structure..",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/UniChat.png",
+      "title": "Uni-Chat",
+      "description": "An app that enables seamless chatting and communication among university students, allowing them to share images, PDFs, and other files effortlessly.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
